@@ -1,6 +1,7 @@
 package org.example;
 import java.util.ArrayList;
 import java.util.List;
+
 // UC1: Validate First Name
 public class UserRegistration {
     // Method to validate first name
